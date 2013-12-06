@@ -1,3 +1,3 @@
-This is blog theme compatible with Jekyll-Bootstrap
+A port of the Jekyll Twitter theme to Bootstrap 3.
 
 <http://jekyllbootstrap.com> for usage.

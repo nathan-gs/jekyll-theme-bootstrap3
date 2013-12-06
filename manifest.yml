@@ -1,8 +1,8 @@
 ---
-name : twitter
-website : http://twitter.github.com/bootstrap
-git_url : git://github.com/jekyllbootstrap/theme-twitter.git
-source_url : https://github.com/jekyllbootstrap/theme-twitter
+name : bootstrap3
+website : https://github.com/nathan-gs/jekyll-theme-bootstrap3
+git_url : git://github.com/nathan-gs/jekyll-theme-bootstrap3.git
+source_url : https://github.com/nathan-gs/jekyll-theme-bootstrap3
 author:
-  name : "Jacob Thornton and Mark Otto"
-  website : http://twitter.github.com/bootstrap
+  name : "Nathan Bijnens"
+  website : http://nathan.gs
